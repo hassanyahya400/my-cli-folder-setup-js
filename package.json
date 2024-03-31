@@ -1,0 +1,15 @@
+{
+  "name": "my-cli-folder-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bin": {
+    "test-setup-project": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
